@@ -57,6 +57,7 @@ form input {
 }
 
 #btn {
+    cursor: pointer;
     color: white;
     background: #2874f0;
     font-weight: bold;
