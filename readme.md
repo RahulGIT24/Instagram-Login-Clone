@@ -3,6 +3,8 @@
 # Interface of the Application
 ![alt](Images/screenshot.png)
 
+<img src="Images/gif.gif">
+
 <h4> You can follow me on Instagram for various projects on web development and basic DSA questions</h4>
 
 <p align="left">
